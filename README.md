@@ -9,6 +9,8 @@
 <br>
 <br>[Setting]→[GitHub Pages]→[Source]->[master branch/docs folder]---> X
 <br>https://melnus.github.io/Jumpx3/
+<br>404 file not found
 <br>
 <br>gh-pages -> X
 <br>https://melnus.github.io/Jumpx3/Web-JMP/
+<br>Uncaught SyntaxError:Unexpected token <
