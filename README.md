@@ -13,4 +13,5 @@
 <br>
 <br>gh-pages -> X
 <br>https://melnus.github.io/Jumpx3/Web-JMP/
-<br>Uncaught SyntaxError:Unexpected token <
+<br>chrome:Uncaught SyntaxError:Unexpected token <
+<br>firefox:SyntaxError:expected expression, got'<'
