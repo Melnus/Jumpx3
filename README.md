@@ -15,3 +15,5 @@
 <br>https://melnus.github.io/Jumpx3/Web-JMP/
 <br>chrome:Uncaught SyntaxError:Unexpected token <
 <br>firefox:SyntaxError:expected expression, got'<'
+<br>
+<br>netlify これもgh-pagesと同じ結果だった
