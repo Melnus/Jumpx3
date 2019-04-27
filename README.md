@@ -1,5 +1,6 @@
 
 <br>2019/04/27///WEBGL版のアプリケーションをどこにアップしたらいい？テスト
+<br>フォルダはビルドしたままのものを使用
 <br>
 <br>UnityRoom版->OK
 <br>https://unityroom.com/games/melnus-jumpx3
