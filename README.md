@@ -1,14 +1,14 @@
 
-2019/04/27///WEBGL版のアプリケーションをどこにアップしたらいい？テスト
-
-UnityRoom版->OK
-https://unityroom.com/games/melnus-jumpx3
-
-Editey版->OK
-https://xrmelnus.wixsite.com/melnus/jumpx3
-
-[Setting]→[GitHub Pages]→[Source]->[master branch/docs folder]---> X
-https://melnus.github.io/Jumpx3/
-
-gh-pages -> X
-https://melnus.github.io/Jumpx3/Web-JMP/
+<br>2019/04/27///WEBGL版のアプリケーションをどこにアップしたらいい？テスト
+<br>
+<br>UnityRoom版->OK
+<br>https://unityroom.com/games/melnus-jumpx3
+<br>
+<br>Editey版->OK
+<br>https://xrmelnus.wixsite.com/melnus/jumpx3
+<br>
+<br>[Setting]→[GitHub Pages]→[Source]->[master branch/docs folder]---> X
+<br>https://melnus.github.io/Jumpx3/
+<br>
+<br>gh-pages -> X
+<br>https://melnus.github.io/Jumpx3/Web-JMP/
